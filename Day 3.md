@@ -51,6 +51,7 @@ fun add(a:Int, b:Int, c:Int) = a+b+c
 
 > 부모 클래스의 함수를 override 하는 함수의 경우 항상 붙여줘야함.
 
+
 [참고]
 
 [강의 1](https://youtu.be/9f7rBip7xc0)
